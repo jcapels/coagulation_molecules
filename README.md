@@ -12,7 +12,7 @@ IC50 is a quantitative measure that indicates how much of a particular inhibitor
 IC50 values are typically expressed as molar concentration. 
 The IC50 values are converted to the pIC50 scale as follows:
 
-![classification results](pIC50_formula.png)
+![classification results](pIC50_formula.PNG)
 
 ## Pre-process and featurization
 The "coagulation.sdf" file was processed using the [rdkit package](https://www.rdkit.org/). 
