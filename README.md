@@ -34,3 +34,5 @@ The following features were estimated for each molecule:
 - "number of radical electrons"
 
 The pre-processement and featurization process can be reproduced as in the "preprocess_featurization.ipynb" file.
+
+The result of this process can be found in the "coagulation.csv" file.
