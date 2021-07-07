@@ -3,7 +3,7 @@
 ## Data collection (coagulation.sdf file):
 https://github.com/isidroc/kekulescope/tree/master/datasets/Coagulation
 
-## Scientific article (where the data is explained)
+## Scientific article (where the data are explained)
 Cortés-Ciriano, I., Bender, A. KekuleScope: prediction of cancer cell line sensitivity and compound potency using convolutional neural networks trained on compound images. J Cheminform 11, 41 (2019). https://doi.org/10.1186/s13321-019-0364-5
 
 ## Data description
